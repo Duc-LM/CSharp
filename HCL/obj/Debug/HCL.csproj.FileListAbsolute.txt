@@ -1,0 +1,7 @@
+C:\Users\laimi\source\repos\HCL\HCL\obj\Debug\HCL.csprojAssemblyReference.cache
+C:\Users\laimi\source\repos\HCL\HCL\obj\Debug\HCL.csproj.CoreCompileInputs.cache
+C:\Users\laimi\source\repos\HCL\HCL\bin\Debug\HCL.exe.config
+C:\Users\laimi\source\repos\HCL\HCL\bin\Debug\HCL.exe
+C:\Users\laimi\source\repos\HCL\HCL\bin\Debug\HCL.pdb
+C:\Users\laimi\source\repos\HCL\HCL\obj\Debug\HCL.exe
+C:\Users\laimi\source\repos\HCL\HCL\obj\Debug\HCL.pdb
